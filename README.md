@@ -1,4 +1,4 @@
-# 1. Project Title / Headline
+# 1. Project Title
 
 📊 **Sales Analytics: Interactive Sales Dashboard 2025–2026**
 
